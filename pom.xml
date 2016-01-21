@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>bluebird</artifactId>
-    <version>3.1.1</version>
+    <version>3.1.2-SNAPSHOT</version>
     <name>Bluebird</name>
     <description>WebJar for Bluebird</description>
     <url>http://webjars.org</url>
@@ -50,7 +50,7 @@
         <url>http://github.com/webjars/bluebird</url>
         <connection>scm:git:https://github.com/webjars/bluebird.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/bluebird.git</developerConnection>
-        <tag>bluebird-3.1.1</tag>
+        <tag>HEAD</tag>
     </scm>
     
     <build>
